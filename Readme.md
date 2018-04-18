@@ -1,1 +1,1 @@
-The project is ongoing
+# Python-Django-myBlog
